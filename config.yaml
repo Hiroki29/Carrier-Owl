@@ -7,7 +7,12 @@ keywords:
         contrastive learning: 1
         self-supervised: 1
         Self-Supervised: 1
-        
+        Transformer: 1
+        visualize: 1
+        state-of-the-art: 1
+        augmentation: 1
+        gan: 1
+        generative: 1
 
 # 通知の閾値
 score_threshold: 0
