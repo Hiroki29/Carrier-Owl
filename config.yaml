@@ -3,10 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        bayesian optimisation: 1
         bayesian optimization: 1
         unsupevised: 1
         contrastive learning: 1
+        Barlow Twins: 1
         self-supervised: 1
         Transformer: 1
         visualize: 1
@@ -15,4 +15,4 @@ keywords:
         generative: 1
 
 # 通知の閾値
-score_threshold: 2
+score_threshold: 1
